@@ -1,4 +1,4 @@
-# Hemi Network Install 
+# Hemi Network Mining Install 
 
 ### Install Coming Soon
 
